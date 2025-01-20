@@ -1,21 +1,28 @@
-# Solana Copytrading Bot
+# Copytrading Bot
 
 This is copy trading bot running on several solana dex platform - raydium, meteora, pumpfun.
+
 This is basic version, not full version.
+
 In this bot, it track the profitable bots fast and copytrack it.
+
 If you want, I can offer full version and can develop customized advanced project.
     
 
+## Contact information:
 
-### Contact information:
-Whatspp: https://wa.me/13137423660
-Telegram: https://t.me/DevCutup
-Twitter: https://twitter.com/januscutup
+If you need help or any upgraded version, contact here:
+
+[Telegram/0xTan1319](https://t.me/shiny0103)
+
+[Twitter/0xTan1319](https://twitter.com/0xTan1319)
 
 
 
-### What can you do in this project
+## What can you do in this project
+
 This is not advanced project, but it will be basic knowledge for your solana bot study.
+
 If you wanna have solana trading bot , I can customize it for your requirement.
 
 
@@ -28,6 +35,7 @@ https://solscan.io/tx/4ciUpbved6zjXxSRqnkhY4TeZvzsUVrJb4wdcWLAppJftwgNfMB8dFVHPP
 
 
 ## Code Explanation
+```bash
 
 const UserInfo = () => {
   ...
@@ -57,3 +65,5 @@ const UserInfo = () => {
     }
  ...
 };
+
+```
